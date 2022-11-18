@@ -13,7 +13,7 @@ public class FibonacciSeries
         System.out.println("Enter Number:");
 
         Scanner sc=new Scanner(System.in);
-        number=sc.nextInt();
+         number=sc.nextInt();
 
         for(int i=1; i<=number; i++)
         {
